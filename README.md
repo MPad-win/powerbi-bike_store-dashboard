@@ -1,6 +1,7 @@
-📊 Executive Summary – Bike Store Dashboard Insights
+📊 Bike Store Sales Dashboard (Power BI)
 
-Bike Store Sales Dashboard built in Power BI from raw data. Includes key KPIs, category and store performance, monthly sales trends, and top customer analysis. Designed to highlight revenue patterns, seasonality, and improvement opportunities across product categories and store locations.
+Interactive sales dashboard built in Power BI from raw Bike Store data.
+Includes KPIs, category and store performance, monthly sales trends, and top customer insights to support data-driven decision-making.
 
 🔍 1. Total Sales Performance
 
