@@ -106,19 +106,27 @@ Loyalty points
 
 Target similar demographic profiles to acquire more high-value customers.
 
+✅ Live Dashboard
+
+🔗 https://app.powerbi.com/links/tyBMD6VjMf?ctid=e3d7aa1e-ce67-451f-ae45-bbedf2e23de7&pbi_source=linkShare
+
+✅ Files Included
+
+📁 BikeStore_Dashboard.pbix 🖼 Dashboard Screenshot
+
 📌 Overall Business Recommendations
 
-Double down on high-performing categories (Mountain Bikes)
+1.Double down on high-performing categories (Mountain Bikes)
 They already produce the majority of revenue.
 
-Improve underperforming stores
+2.Improve underperforming stores
 The performance gap is too large to ignore.
 
-Plan inventory & marketing around seasonality
+3.Plan inventory & marketing around seasonality
 Maximize the April peak and fix the May drop-off.
 
-Protect and grow high-value customers
+4.Protect and grow high-value customers
 A small group of buyers drive a large share of revenue.
 
-Explore pricing or assortment optimization
+5.Explore pricing or assortment optimization
 Underperforming categories may benefit from repositioning.
